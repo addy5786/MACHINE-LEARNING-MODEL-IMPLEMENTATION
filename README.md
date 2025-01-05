@@ -12,7 +12,9 @@
 
 **Mentor**: Neela Santhosh Kumar
 
-# OUTPUT PF THIS PROJECT
+# OUTPUT OF THIS PROJECT
+
+# PROJECT:EMAIL SPAM
 ![Email Spam-OUTPUT](https://github.com/user-attachments/assets/dc780c9b-fd8f-485c-b018-e1da943a8d60)
 
 # Overview Of The Project
