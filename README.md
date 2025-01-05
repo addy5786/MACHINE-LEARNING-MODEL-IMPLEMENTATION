@@ -12,6 +12,9 @@
 
 **Mentor**: Neela Santhosh Kumar
 
+# OUTPUT PF THIS PROJECT
+![Email Spam-OUTPUT](https://github.com/user-attachments/assets/dc780c9b-fd8f-485c-b018-e1da943a8d60)
+
 # Overview Of The Project
 
 This code is a complete workflow for building a spam detection system using machine learning.
